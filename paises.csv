@@ -1,0 +1,101 @@
+IDENTIFICADOR;PAÍS;POPULAÇÃO;IDIOMA(S);CONTINENTE
+1;Brasil;203062512;Português;América do Sul
+2;Argentina;46044703;Espanhol;América do Sul
+3;Chile;19629590;Espanhol;América do Sul
+4;Uruguai;3518552;Espanhol;América do Sul
+5;Paraguai;7453538;Espanhol, Guarani;América do Sul
+6;Bolívia;12224110;Espanhol;América do Sul
+7;Peru;34049588;Espanhol;América do Sul
+8;Colômbia;52085168;Espanhol;América do Sul
+9;Venezuela;28301696;Espanhol;América do Sul
+10;Equador;18113561;Espanhol;América do Sul
+11;Estados Unidos;334914895;Inglês;América do Norte
+12;Canadá;40097761;Inglês, Francês;América do Norte
+13;México;129875529;Espanhol;América do Norte
+14;Guatemala;18248456;Espanhol;América Central
+15;Honduras;10593798;Espanhol;América Central
+16;El Salvador;6364943;Espanhol;América Central
+17;Costa Rica;5212173;Espanhol;América Central
+18;Panamá;4468087;Espanhol;América Central
+19;Cuba;11194449;Espanhol;Caribe
+20;Haiti;11724763;Crioulo, Francês;Caribe
+21;Portugal;10247605;Português;Europa
+22;Espanha;48419695;Espanhol;Europa
+23;França;68042591;Francês;Europa
+24;Alemanha;84552242;Alemão;Europa
+25;Itália;58870762;Italiano;Europa
+26;Reino Unido;67736802;Inglês;Europa
+27;Irlanda;5255017;Inglês;Europa
+28;Holanda;17909056;Holandês;Europa
+29;Bélgica;11754004;Francês, Neerlandês;Europa
+30;Suíça;8851406;Alemão, Francês;Europa
+31;Suécia;10549347;Sueco;Europa
+32;Noruega;5501687;Norueguês;Europa
+33;Finlândia;5603851;Finlandês;Europa
+34;Polônia;37637000;Polonês;Europa
+35;Grécia;10341277;Grego;Europa
+36;África do Sul;60414495;Inglês;África
+37;Angola;36684203;Português;África
+38;Moçambique;33697335;Português;África
+39;Nigéria;227882945;Inglês;África
+40;Egito;112716598;Árabe;África
+41;Marrocos;37840044;Árabe;África
+42;Argélia;45606480;Árabe;África
+43;Tunísia;12262946;Árabe;África
+44;Senegal;18275732;Francês;África
+45;Gana;34312103;Inglês;África
+46;Etiópia;126527060;Amárico;África
+47;Quênia;55212480;Inglês, Suaíli;África
+48;Uganda;49839148;Inglês;África
+49;Tanzânia;67438106;Suaíli;África
+50;Camarões;28647293;Francês, Inglês;África
+51;China;1410710000;Mandarim;Ásia
+52;Índia;1428627663;Hindi, Inglês;Ásia
+53;Japão;123753041;Japonês;Ásia
+54;Coreia do Sul;51780579;Coreano;Ásia
+55;Coreia do Norte;26298115;Coreano;Ásia
+56;Tailândia;71601103;Tailandês;Ásia
+57;Vietnã;100352192;Vietnamita;Ásia
+58;Indonésia;277534122;Indonésio;Ásia
+59;Filipinas;114163719;Filipino, Inglês;Ásia
+60;Malásia;34308525;Malaio;Ásia
+61;Arábia Saudita;36947256;Árabe;Ásia
+62;Israel;9834289;Hebraico;Ásia
+63;Irã;89524246;Persa;Ásia
+64;Iraque;46042015;Árabe;Ásia
+65;Turquia;85372377;Turco;Ásia
+66;Paquistão;241499431;Urdu;Ásia
+67;Afeganistão;41454756;Dari, Pachto;Ásia
+68;Nepal;30896590;Nepalês;Ásia
+69;Sri Lanka;22156000;Cingalês;Ásia
+70;Bangladesh;173562364;Bengali;Ásia
+71;Austrália;26650000;Inglês;Oceania
+72;Nova Zelândia;5228100;Inglês;Oceania
+73;Papua-Nova Guiné;10142619;Inglês;Oceania
+74;Fiji;936375;Inglês;Oceania
+75;Samoa;225681;Samoano;Oceania
+76;Tonga;104597;Tonganês;Oceania
+77;Ilhas Salomão;734887;Inglês;Oceania
+78;Vanuatu;334506;Bislama;Oceania
+79;Rússia;146447424;Russo;Europa/Ásia
+80;Azerbaijão;10153958;Azeri;Europa/Ásia
+81;Áustria;9120813;Alemão;Europa
+82;Hungria;9597085;Húngaro;Europa
+83;Romênia;19053815;Romeno;Europa
+84;Bulgária;6447710;Búlgaro;Europa
+85;Sérvia;6623183;Sérvio;Europa
+86;Croácia;3875325;Croata;Europa
+87;Islândia;393396;Islandês;Europa
+88;Malta;542051;Maltês;Europa
+89;Chipre;1260138;Grego;Europa
+90;Luxemburgo;671254;Luxemburguês;Europa
+91;Jordânia;11337700;Árabe;Ásia
+92;Emirados Árabes Unidos;9516871;Árabe;Ásia
+93;Catar;2979915;Árabe;Ásia
+94;Kuwait;4310108;Árabe;Ásia
+95;Omã;4576298;Árabe;Ásia
+96;Zâmbia;20569737;Inglês;África
+97;Zimbábue;16766598;Inglês;África
+98;Namíbia;2624091;Inglês;África
+99;Botsuana;2480244;Inglês;África
+100;Lesoto;2330318;Sesoto;África
